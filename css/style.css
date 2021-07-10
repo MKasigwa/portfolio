@@ -399,3 +399,28 @@ sm {
   font-weight: 600;
   margin: 15px 0;
 }
+
+/* Additional */
+.about-imag {
+  float: left;
+  width: 27%;
+  margin-right: 5%;
+}
+.about-imag img {
+  border: 2px solid #ef664d;
+  border-radius: 103px;
+}
+
+.about-header {
+  text-align: center;
+}
+.about-header h3 {
+  font-size: 2.5em;
+  font-family: "Arvo", serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #2a404e;
+}
+.about-header h3 span {
+  color: #ef664d;
+}
