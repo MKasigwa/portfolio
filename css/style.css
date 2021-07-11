@@ -429,3 +429,21 @@ ul > li {
   margin: 0.5em 0;
   line-height: 1.15;
 }
+
+.conta {
+  border: 1px solid #ccc;
+  height: 150px;
+  width: 500px;
+}
+
+.conta > ul {
+  display: flex;
+  flex-flow: column wrap;
+  height: inherit;
+  width: inherit;
+  margin: 0;
+}
+
+.conta > ul > li {
+  flex: 0 0 auto;
+}
