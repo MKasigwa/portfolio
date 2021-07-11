@@ -288,7 +288,7 @@ p {
 }
 
 .desc more {
-  color: #95a5a6;
+  color: #58555a;
 }
 
 sm {
@@ -388,6 +388,13 @@ sm {
   padding: 15px;
   font-weight: 600;
   margin: 15px 0;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
 }
 
 .contact-form .sent-message {
