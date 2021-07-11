@@ -424,3 +424,8 @@ sm {
 .about-header h3 span {
   color: #ef664d;
 }
+
+ul > li {
+  margin: 0.5em 0;
+  line-height: 1.15;
+}
